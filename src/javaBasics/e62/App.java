@@ -2,7 +2,7 @@ package javaBasics.e62;
 
 public class App {
     public static void main(String[] arg) {
-        String str = "a";
+        String str = "go!";
         System.out.println(App.encrypt(str));
     }
 
